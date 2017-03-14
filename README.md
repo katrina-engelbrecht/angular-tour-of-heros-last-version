@@ -1,4 +1,4 @@
-# Angular QuickStart Source
+# The last version of Tour of Heros from Angular2
 [![Build Status][travis-badge]][travis-badge-url]
 
 This repository holds the TypeScript source code of the [angular.io quickstart](https://angular.io/docs/ts/latest/quickstart.html),
